@@ -1,0 +1,46 @@
+#sg_color_main {
+    display: flex;
+    flex-direction: row;
+    font-size: 0.6rem;
+    width: fit-content;
+    margin: 0.2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#sg_color_1, #sg_color_2, #sg_color_3, #sg_color_4, #sg_color_5, #sg_color_6 {
+    margin: 0.25rem;
+    border-radius: 25%;
+    text-align: center;
+}
+
+#sg_color_1 {
+    background-color: #85857B;
+    padding: 0.5rem;
+}
+
+#sg_color_2 {
+    background-color: #CBCCC4;
+    padding: 0.5rem;
+}
+
+#sg_color_3 {
+    background-color: #BBC9CA;
+    padding: 0.5rem;
+}
+
+#sg_color_4 {
+    background-color: #C1D2CC;
+    padding: 0.5rem;
+}
+
+#sg_color_5 {
+    background-color: #E8E8DE;
+    padding: 0.5rem;
+}
+
+#sg_color_6 {
+    background-color: #D3D1C4;
+    padding: 0.5rem;
+}
