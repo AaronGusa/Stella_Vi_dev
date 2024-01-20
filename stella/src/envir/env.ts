@@ -1,4 +1,4 @@
 export const envir = {
     production: false,
-    apiUrl: 'https://stella-vi.onrender.com',
+    apiUrl: 'https://aarongusa.github.io/Stella_Vi_dev/',
 };
